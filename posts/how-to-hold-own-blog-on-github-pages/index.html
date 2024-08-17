@@ -48,7 +48,7 @@
   <meta itemprop="description" content="It is specially written for blogging beginners, aiming to guide you on how to easily set up and host your personal blog on GitHub Pages. for example, if you have isencher account of Github.com, you will get a blog web whose address is https://isencher.github.io. I use Hugo, a feature-rich static site generator that automatically creates web pages for your blog content. Whenever you update your blog, just run Hugo, and it will quickly generate the latest web pages, ensuring that your website is always up to date.">
   <meta itemprop="datePublished" content="2024-08-17T15:18:43+08:00">
   <meta itemprop="dateModified" content="2024-08-17T15:18:43+08:00">
-  <meta itemprop="wordCount" content="478">
+  <meta itemprop="wordCount" content="541">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="How to Hold Own Blog on Github Pages">
   <meta name="twitter:description" content="It is specially written for blogging beginners, aiming to guide you on how to easily set up and host your personal blog on GitHub Pages. for example, if you have isencher account of Github.com, you will get a blog web whose address is https://isencher.github.io. I use Hugo, a feature-rich static site generator that automatically creates web pages for your blog content. Whenever you update your blog, just run Hugo, and it will quickly generate the latest web pages, ensuring that your website is always up to date.">
@@ -220,7 +220,18 @@ git commit -m &#34;Configure site&#34;
 <pre tabindex="0"><code>draft = false
 </code></pre><p>fifth, regenerate the blog</p>
 <pre tabindex="0"><code>hugo
-</code></pre><ul class="pa0">
+</code></pre><p>sixth, update public repo</p>
+<pre tabindex="0"><code>cd public
+git add .
+git commit -m &#34;Add a blog of how to hold own blog on github pages&#34;
+git push
+</code></pre><p>seventh, update blog repo</p>
+<pre tabindex="0"><code>cd ..
+git add .
+git commit -m &#34;Add a blog of how to hold own blog on github pages&#34;
+git push
+</code></pre><p>then, if you reopen <a href="https://isencher.github.io">https://isencher.github.io</a>, you can see the new blog.</p>
+<ul class="pa0">
   
 </ul>
 <div class="mt6 instapaper_ignoref">
