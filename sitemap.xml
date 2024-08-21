@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/debug-travis/</loc>
-    <lastmod>2024-08-18T21:02:21+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-08-18T21:02:21+08:00</lastmod>
+    <lastmod>2024-08-21T17:57:06+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/learning_resources/</loc>
+    <lastmod>2024-08-21T17:57:06+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-08-18T21:02:21+08:00</lastmod>
+    <lastmod>2024-08-21T17:57:06+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/how-to-hold-own-blog-on-github-pages/</loc>
     <lastmod>2024-08-17T15:18:43+08:00</lastmod>
