@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on iSencher</title>
-    <link>https://isencher.github.io/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on iSencher</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2024 17:57:06 +0800</lastBuildDate>
-    <atom:link href="https://isencher.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning resources</title>
-      <link>https://isencher.github.io/posts/learning-resources/</link>
+      <link>http://localhost:1313/posts/learning-resources/</link>
       <pubDate>Wed, 21 Aug 2024 17:57:06 +0800</pubDate>
       <guid>https://isencher.github.io/posts/learning-resources/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://roadmap.sh/&#34;&gt;Developer Roadmap&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/kilimchoi/engineering-blogs&#34;&gt;engineering-blogs&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://medium.com/javarevisited/40-must-read-engineering-blogs-to-learn-system-design-and-software-architecture-in-2024-aaa7c4f71ee6&#34;&gt;40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.freecodecamp.org/news/learn-linux-for-beginners-book-basic-to-advanced/&#34;&gt;Learn Linux for Beginners: From Basics to Advanced Techniques&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://awstip.com/quick-guide-set-up-reactjs-with-django-rest-framework-drf-5fba18a04877&#34;&gt;Quick Guide: Set up ReactJS with Django Rest Framework (DRF)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>How to Hold Own Blog on Github Pages</title>
-      <link>https://isencher.github.io/posts/how-to-hold-own-blog-on-github-pages/</link>
+      <link>http://localhost:1313/posts/how-to-hold-own-blog-on-github-pages/</link>
       <pubDate>Sat, 17 Aug 2024 15:18:43 +0800</pubDate>
       <guid>https://isencher.github.io/posts/how-to-hold-own-blog-on-github-pages/</guid>
       <description>&lt;p&gt;It is specially written for blogging beginners, aiming to guide you on how to easily set up and host your personal blog on GitHub Pages. for example, if you have isencher account of Github.com, you will get a blog web whose address is &lt;a href=&#34;https://isencher.github.io&#34;&gt;https://isencher.github.io&lt;/a&gt;.&lt;!-- raw HTML omitted --&gt;&#xA;I use Hugo, a feature-rich static site generator that automatically creates web pages for your blog content. Whenever you update your blog, just run Hugo, and it will quickly generate the latest web pages, ensuring that your website is always up to date.&lt;/p&gt;</description>
