@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on iSencher</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://isencher.github.io/posts/</link>
     <description>Recent content in Posts on iSencher</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Aug 2024 17:57:06 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://isencher.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning resources</title>
-      <link>http://localhost:1313/posts/learning-resources/</link>
+      <link>https://isencher.github.io/posts/learning-resources/</link>
       <pubDate>Wed, 21 Aug 2024 17:57:06 +0800</pubDate>
-      <guid>http://localhost:1313/posts/learning-resources/</guid>
-      <description> Developer Roadmap engineering-blogs 40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024 Learn Linux for Beginners: From Basics to Advanced Techniques Quick Guide: Set up ReactJS with Django Rest Framework (DRF) </description>
+      <guid>https://isencher.github.io/posts/learning-resources/</guid>
+      <description> Developer Roadmap engineering-blogs 40 Must Read Engineering Blogs to Learn System Design and Software Architecture in 2024 Learn Linux for Beginners: From Basics to Advanced Techniques Quick Guide: Set up ReactJS with Django Rest Framework (DRF) The Open Source Computer Science Degree </description>
     </item>
     <item>
       <title>How to Hold Own Blog on Github Pages</title>
-      <link>http://localhost:1313/posts/how-to-hold-own-blog-on-github-pages/</link>
+      <link>https://isencher.github.io/posts/how-to-hold-own-blog-on-github-pages/</link>
       <pubDate>Sat, 17 Aug 2024 15:18:43 +0800</pubDate>
-      <guid>http://localhost:1313/posts/how-to-hold-own-blog-on-github-pages/</guid>
+      <guid>https://isencher.github.io/posts/how-to-hold-own-blog-on-github-pages/</guid>
       <description>It is specially written for blogging beginners, aiming to guide you on how to easily set up and host your personal blog on GitHub Pages. for example, if you have isencher account of Github.com, you will get a blog web whose address is https://isencher.github.io. I use Hugo, a feature-rich static site generator that automatically creates web pages for your blog content. Whenever you update your blog, just run Hugo, and it will quickly generate the latest web pages, ensuring that your website is always up to date.</description>
     </item>
   </channel>

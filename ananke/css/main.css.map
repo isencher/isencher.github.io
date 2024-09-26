@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "D:/isencher/blog",
+	"sourceRoot": "C:/Users/isencher/Documents/dev/blog",
 	"sources": [
 		"ananke/css/main.css"
 	],
